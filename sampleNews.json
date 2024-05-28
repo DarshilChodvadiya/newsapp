@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Bloomberg",
+            "title": "Build 2024: Microsoft introduces Team Copilot and updates on Azure Cobalt 100. All you need to know - Hindustan Times",
+            "description": "Team Copilot will serve as a designated meeting minder, taking notes, summarizing the most important information and tracking deadlines.",
+            "url": "https://www.hindustantimes.com/business/build-2024-microsoft-introduces-team-copilot-and-updates-on-azure-cobalt-100-all-you-need-to-know-101716342770488.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/05/22/1600x900/US-tech-Microsoft-computers-AI-1_1716342872063_1716342901470.jpg",
+            "publishedAt": "2024-05-22T01:56:05Z",
+            "content": "Microsoft Corp. is creating a version of its Copilot assistant that will help groups of workers collaborate, extending a company-wide push to infuse products with artificial intelligence.\r\nMicrosoft … [+2183 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "NDTV Sports Desk",
+            "title": "Shah Rukh Khan Instantly Regrets Mistake During Lap Of Honour After KKR IPL 2024 Final Entry | Cricket News - NDTV Sports",
+            "description": "Mitchell Starc-powered Kolkata Knight Riders' juggernaut rolled into the IPL final as the two-time champions produced a ruthless performance against Sunrisers Hyderabad for an eight-wicket win in Qualifier 1",
+            "url": "https://sports.ndtv.com/ipl-2024/shah-rukh-khan-instantly-regrets-mistake-during-lap-of-honour-after-kkr-ipl-2024-final-entry-5715991",
+            "urlToImage": "https://c.ndtvimg.com/2024-05/j30dnifg_shah-rukh-khan_625x300_22_May_24.jpg",
+            "publishedAt": "2024-05-22T01:46:21Z",
+            "content": "The Shah Rukh Khan-owned Kolkata Knight Riders had a great day in office as it crashed SunRisers Hyderabad to enter the IPl 2024 final. the team chased down a 160-run target in less than 14 overs to … [+3835 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "\"How Can Juvenile Board Give Such Order?\" D Fadnavis On Pune Porsche Crash - NDTV",
+            "description": "Maharashtra Deputy Chief Minister Devendra Fadnavis has promised strong action against the teen who crashed his high-end car into a motorbike, killing two people on the spot.",
+            "url": "https://www.ndtv.com/india-news/15-day-punishment-for-teen-shocking-devendra-fadnavis-on-pune-porsche-crash-5713424",
+            "urlToImage": "https://c.ndtvimg.com/2024-05/o9pv5kdk_pune-porsche-accident_625x300_19_May_24.jpeg?im=FaceCrop,algorithm=dnn,width=650,height=400",
+            "publishedAt": "2024-05-21T17:01:00Z",
+            "content": "The speeding Porsche car knocked down two, killing them on the spot. (Representational)\r\nMaharashtra Deputy Chief Minister Devendra Fadnavis has promised strong action against the teen who crashed hi… [+3066 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Correspondent",
+            "title": "Vice president to represent India at official ceremony for Iranian leaders - Hindustan Times",
+            "description": "Iran President Ebrahim Raisi and foreign minister Hossein Amir-Abdollahian died when their helicopter crashed in East Azerbaijan province in thick fog on Sunday | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/vice-president-to-represent-india-at-official-ceremony-for-iranian-leaders-101716305307546.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/05/21/1600x900/Vice-president-of-India--Jagdeep-Dhankar---File-_1716305259639.jpg",
+            "publishedAt": "2024-05-21T15:28:26Z",
+            "content": "Vice President Jagdeep Dhankar will represent India at an official ceremony in Iran on May 22 to pay condolences to President Ebrahim Raisi, foreign minister Hossein Amir-Abdollahian and other offici… [+1863 chars]"
+        }
+    ]
+}
